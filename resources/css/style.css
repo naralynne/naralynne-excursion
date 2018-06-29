@@ -23,9 +23,9 @@ p {
   color: gray;
 }
 
-.link  {
+a {
   font-size: 16px;
-  color: #Aquamarine;
+  color: Aquamarine;
 }
 
 footer {
