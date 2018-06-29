@@ -1,6 +1,5 @@
-* {
+html {
   font-family: Verdana, sans-serif;
-  color: white;
   text-align: center;
   background-color: black;
 }
@@ -15,12 +14,21 @@ h2 {
   font-weight: 300;
 }
 
+h1, h2 {
+    color: white;
+}
+
 p {
   font-size: 21px;
   color: gray;
 }
 
-.download_link {
-  color: Aquamarine;
+.link  {
   font-size: 16px;
+  color: #Aquamarine;
+}
+
+footer {
+  color: gray;
+  text-align: right;
 }
